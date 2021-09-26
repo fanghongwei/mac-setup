@@ -1,3 +1,8 @@
+brew install node@14
+brew install openjdk@17
+brew install cloc
+brew install golang
+
 workspace=~/workspace
 if test -d "$workspace"; then
   echo "folder is existing"
